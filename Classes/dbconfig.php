@@ -3,7 +3,7 @@
 $DB_host = "localhost";
 $DB_user = "root";
 $DB_pass = "root";
-$DB_name = "rvcorret_imob";
+$DB_name = "bancodedados";
 
 
 try
